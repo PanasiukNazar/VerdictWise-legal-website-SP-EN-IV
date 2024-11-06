@@ -25,7 +25,7 @@ h1 {
     font-family: 'Raleway', sans-serif;
     font-size: 4em;
     letter-spacing: 3px;
-    color: #56b8e6;
+    color: #2c5f2d;
     margin: 0;
     margin-bottom: 20px;
 }
@@ -37,7 +37,7 @@ h1 {
     letter-spacing: 1px;
 }
 .go-home {
-    background: #56b8e6;
+    background: #2c5f2d;
     border: 2px solid #ffffff;
     color: #ffffff;
     font-weight: 600;
@@ -58,10 +58,10 @@ h1 {
 }
 .go-home:hover {
     background: transparent;
-    border-color: #56b8e6;
+    border-color: #2c5f2d;
 }
 a:hover .go-home {
-    color: #56b8e6;
+    color: #2c5f2d;
 }
 .go-home a {
     text-decoration: none;
